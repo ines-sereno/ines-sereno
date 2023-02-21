@@ -4,6 +4,10 @@
 
 <h2> Mechanical Design Projects: </h2>
 
+- <b>Industrial Robot: </b>
+
+  -  [UR10e](https://github.com/ines-sereno/UR10)
+
 <h2> Database Management Projects: </h2>
 
 - <b>World Cup Sticker Album Trading Center</b>
