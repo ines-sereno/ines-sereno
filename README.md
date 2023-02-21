@@ -1,7 +1,5 @@
 <h1> Hi, I'm Ines! <br/> Industrial Engineering Student </h1>
 
-<h2> Optimization Projects: </h2>
-
 <h2> Mechanical Design Projects: </h2>
 
 - <b>Industrial Robot: </b>
