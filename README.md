@@ -6,6 +6,10 @@
 
 <h2> Database Management Projects: </h2>
 
+- <b>World Cup Sticker Album Trading Center</b>
+
+  -  [Database and Website](https://github.com/ines-sereno/WorldCupStickers)
+
 <h2> Cornerstone of Engineering Projects: </h2>
 
 - <b>Entertainment Robot</b>
