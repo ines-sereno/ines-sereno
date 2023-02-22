@@ -1,23 +1,30 @@
-<h1> Hi, I'm Ines! <br/> Industrial Engineering Student </h1>
+<body style = "background-color: #F8F0C6">
 
+  <h1> Hi, I'm Ines! <br/> </h1> <h3>I'm an Industrial Engineering student at Northeastern University</h3>
+
+<h2> Process Development: </h2>
+
+  
 <h2> Mechanical Design Projects: </h2>
 
-- <b>Industrial Robot: </b>
+- <b>Industrial Robot (Spring 2023)</b>
 
   -  [UR10e](https://github.com/ines-sereno/UR10)
+  
+- <b>Entertainment Robot (Fall 2021)</b>
+  
+  -  [GIA Bot](https://github.com/ines-sereno/EntertainmentRobot)
+
+- <b>Caretaker Robot (Fall 2021)</b>
+  
+  -  [SOS Bot](https://github.com/ines-sereno/HomeHealthRobot)
 
 <h2> Database Management Projects: </h2>
 
-- <b>World Cup Sticker Album Trading Center</b>
+- <b>World Cup Sticker Album Trading Center (Fall 2022)</b>
 
   -  [Database and Website](https://github.com/ines-sereno/WorldCupStickers)
 
-<h2> Cornerstone of Engineering Projects: </h2>
 
-- <b>Entertainment Robot</b>
-  -  [GIA Bot](https://github.com/ines-sereno/EntertainmentRobot)
-
-- <b>Caretaker Robot </b>
-  -  [SOS Bot](https://github.com/ines-sereno/HomeHealthRobot)
 
 
