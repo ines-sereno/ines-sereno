@@ -3,8 +3,9 @@
   <h1> Hi, I'm Ines! <br/> </h1> <h3>I'm an Industrial Engineering student at Northeastern University</h3>
 
 <h2> Process Development: </h2>
-
   
+  -  [Affinity Chromatography Column Reuse](https://github.com/ines-sereno/AffinityChromatography)
+
 <h2> Mechanical Design Projects: </h2>
 
 - <b>Industrial Robot (Spring 2023)</b>
