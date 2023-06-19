@@ -2,7 +2,10 @@
 
   <h1> Hi, I'm Ines! <br/> </h1> <h3>I'm an Industrial Engineering student at Northeastern University</h3>
 
-<h2> Process Development: </h2>
+<h2> Capstone Project: </h2>
+<h4> May 2023-May 2024 </h4>
+
+<h2> Process Improvement: </h2>
 
 - <b>Affinity Chromatography Column Reuse (Spring 2022)</b>
 
